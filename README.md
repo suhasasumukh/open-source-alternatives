@@ -252,6 +252,8 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [hoppscotch](https://github.com/hoppscotch/hoppscotch)|[hoppscotch.io](https://hoppscotch.io/)|<a href=https://github.com/hoppscotch/hoppscotch><img src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat" width=100/></a>
 [Insomnia](https://github.com/Kong/insomnia)|[insomnia.rest](https://insomnia.rest/)|<a href=https://github.com/Kong/insomnia><img src="https://img.shields.io/github/stars/Kong/insomnia?style=flat" width=100/></a>
+[Firecamp](https://github.com/firecamp-dev/firecamp)|[firecamp.dev](https://firecamp.dev)|<a href=https://github.com/firecamp-dev/firecamp><img src="https://img.shields.io/github/stars/firecamp-dev/firecamp?style=flat" width=100/></a>
+
 
 ### Programmatic videos:
 |Company|Website|GitHub stars|
@@ -365,11 +367,17 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Ghostfolio](https://github.com/ghostfolio/ghostfolio)|[Ghostfol.io](https://ghostfol.io)|<a href=https://github.com/ghostfolio/ghostfolio><img src="https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=flat" width=100/></a>
+[Firefly III](https://github.com/firefly-iii/firefly-iii)|[firefly-iii.org](https://firefly-iii.org)|<a href=https://github.com/firefly-iii/firefly-iii><img src="https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=flat" width=100/></a>
 
 ### CRM (Salesforce, Hubspot alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Twenty](https://github.com/twentyhq/twenty)|[Twenty.com](https://twenty.com)|<a href=https://github.com/twentyhq/twenty><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=flat" width=100/></a>
+
+### Integration Platform (Tray.io, Merge.dev alternatives)
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Revert](https://github.com/revertinc/revert)|[revert.dev](https://revert.dev)|<a href=https://github.com/revertinc/revert><img src="https://img.shields.io/github/stars/revertinc/revert?style=flat" width=100/></a>
 
 
 ## Criteria
